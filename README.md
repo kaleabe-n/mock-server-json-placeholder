@@ -1,2 +1,2 @@
-# new-repo
-new repo
+this is the read me file  of the repo
+
